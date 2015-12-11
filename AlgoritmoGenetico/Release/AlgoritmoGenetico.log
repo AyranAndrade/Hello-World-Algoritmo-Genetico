@@ -1,0 +1,16 @@
+﻿Build started 18/10/2013 16:40:15.
+     1>Project "C:\Users\Ayran\Desktop\Visual Studio C++ Express\AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MTd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ayran\Desktop\Visual Studio C++ Express\AlgoritmoGenetico\Release\AlgoritmoGenetico.exe" /INCREMENTAL:NO /NOLOGO shell32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ayran\Desktop\Visual Studio C++ Express\AlgoritmoGenetico\Release\AlgoritmoGenetico.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ayran\Desktop\Visual Studio C++ Express\AlgoritmoGenetico\Release\AlgoritmoGenetico.lib" /MACHINE:X86 /SAFESEH Release\Source.obj
+         Generating code
+     1>c:\users\ayran\desktop\visual studio c++ express\algoritmogenetico\algoritmogenetico\source.cpp(348): warning C4715: 'Roleta' : not all control paths return a value
+         Finished generating code
+         AlgoritmoGenetico.vcxproj -> C:\Users\Ayran\Desktop\Visual Studio C++ Express\AlgoritmoGenetico\Release\AlgoritmoGenetico.exe
+     1>Done Building Project "C:\Users\Ayran\Desktop\Visual Studio C++ Express\AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.96
