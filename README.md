@@ -19,9 +19,9 @@ Segue abaixo um screenshot do programa. Na tela é mostrado o indivíduo mais ap
 No link https://github.com/AyranAndrade/Hello-World-Algoritmo-Genetico existe um arquivo executável. É só baixar e executar. Aos mais desconfiados, aos quais eu entendo perfeitamente, podem baixar o código-fonte no link https://github.com/AyranAndrade/Hello-World-Algoritmo-Genetico/blob/master/AlgoritmoGenetico/Source.cpp e compilá-lo no seu Visual Studio. Nenhuma biblioteca de terceiro é requisitada, ou configuração extra é exigida.
 Você também pode baixar o projeto como um todo, abrir e compilar no seu Visual Studio.
 
-# O antigo "readme" deste programa.
+Segue abaixo o antigo "readme" deste programa.
 
-Programa Que Faz Um Hello World Usando Algoritmo Genético.
+# Programa Que Faz Um Hello World Usando Algoritmo Genético.
 Autor: Ayran Andrade Sampaio.
 Início: Algum Dia Depois Do Dia 7 De Setembro De 2013.
 Fim: 18 De Outubro De 2013.
