@@ -23,8 +23,11 @@ Segue abaixo o antigo "readme" deste programa.
 
 # Programa Que Faz Um Hello World Usando Algoritmo Genético.
 Autor: Ayran Andrade Sampaio.
+
 Início: Algum Dia Depois Do Dia 7 De Setembro De 2013.
+
 Fim: 18 De Outubro De 2013.
+
 IDE Utilizada: Visual Studio Express C++ 2012 Registrada.
 
 # O Que É Algoritmo Genético ?
