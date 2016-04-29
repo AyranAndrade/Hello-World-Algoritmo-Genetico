@@ -16,7 +16,7 @@ Segue abaixo um screenshot do programa. Na tela é mostrado o indivíduo mais ap
 
 # Como executar este programa?
  
-No link https://github.com/AyranAndrade/Hello-World-Algoritmo-Genetico existe um arquivo executável. É só baixar e executar. Aos mais desconfiados, aos quais eu entendo perfeitamente, podem baixar o código-fonte no link https://github.com/AyranAndrade/Hello-World-Algoritmo-Genetico/blob/master/AlgoritmoGenetico/Source.cpp e compilá-lo no seu Visual Studio. Nenhuma biblioteca de terceiro é requisitada, ou configuração extra é exigida.
+No link https://github.com/AyranAndrade/Hello-World-Algoritmo-Genetico/tree/master/Release existe um arquivo executável. É só baixar e executar. Aos mais desconfiados, aos quais eu entendo perfeitamente, podem baixar o código-fonte no link https://github.com/AyranAndrade/Hello-World-Algoritmo-Genetico/blob/master/AlgoritmoGenetico/Source.cpp e compilá-lo no seu Visual Studio. Nenhuma biblioteca de terceiro é requisitada, ou configuração extra é exigida.
 Você também pode baixar o projeto como um todo, abrir e compilar no seu Visual Studio.
 
 Segue abaixo o antigo "readme" deste programa.
