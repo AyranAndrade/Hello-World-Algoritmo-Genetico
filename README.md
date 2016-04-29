@@ -14,6 +14,10 @@ Segue abaixo um screenshot do programa. Na tela é mostrado o indivíduo mais ap
 
 ![alt tag](http://i63.tinypic.com/11w8312.jpg)
 
+# Como executar este programa?
+
+
+
 Segue abaixo também o antigo "readme" deste programa.
 
 # Programa Que Faz Um Hello World Usando Algoritmo Genético.
